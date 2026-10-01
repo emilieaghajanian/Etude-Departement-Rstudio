@@ -20,5 +20,5 @@ Le rapport aborde les axes d’analyse suivants :
 * **Méthodes statistiques** : ACP (Analyse en Composantes Principales), Classification Ascendante Hiérarchique (CAH), tests statistiques (V-test, cos²).
 * **Logiciel utilisé** : R (scripts pour l’analyse factorielle et la typologie).
 
-## Autor(e)s
+## Auteure
 * Ce rapport a été réalisé par **Emilie Aghajanian** étudiante en troisième année de licence économie gestion, parcours économie appliquée.
